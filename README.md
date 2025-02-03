@@ -1,5 +1,5 @@
-# Infrastructure-Setup
-Deplyment Infrastructure on aws using Terraform
+# Infrastructure-Setup on aws using Terraform
+
 Step1:  Provider & Backend Configuration
 Create a main.tf file
 
