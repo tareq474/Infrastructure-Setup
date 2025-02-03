@@ -3,10 +3,8 @@ Deplyment Infrastructure on aws using Terraform
 Step1:  Provider & Backend Configuration
 Create a main.tf file:
 
-
 terraform {
   required_version = ">= 1.3.0"
-
   required_providers {
     aws = {
       source  = "hashicorp/aws"
