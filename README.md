@@ -23,6 +23,7 @@ Step 7: Deployment Steps
 # terraform init
 
 Step 8: Plan Deployment
+
 #terraform plan
 
 Step 9: Apply Changes
